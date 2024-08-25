@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coint
+  - dead
+  - enemy
+  - changeMoveEnemy
+  - enemySight
+  - Fire
+  - Audio
+  - Flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grounded
+  - Water
+  - UI
+  - Player
+  - groundLayer
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cloud
+    uniqueID: 565102509
+    locked: 0
+  - name: Player
+    uniqueID: 854066889
+    locked: 0
